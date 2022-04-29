@@ -1,8 +1,12 @@
 [submodule "repo/B99"]
+	path = repo/B99
 	url = https://github.com/Logs22/B99
 [submodule "repo/B99accounts"]
+	path = repo/B99accounts
 	url = https://github.com/Logs22/B99accounts
 [submodule "repo/B99scrape"]
+	path = repo/B99scrape
 	url = https://github.com/Logs22/B99scrape
 [submodule "repo/B99art"]
+	path = repo/B99art
 	url = https://github.com/Logs22/B99art
