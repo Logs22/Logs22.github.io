@@ -1,8 +1,8 @@
 [submodule "repo/B99"]
-	url = https://github.com/Logs22/B99.git
+	url = https://github.com/Logs22/B99
 [submodule "repo/B99accounts"]
-	url = https://github.com/Logs22/B99accounts.git
+	url = https://github.com/Logs22/B99accounts
 [submodule "repo/B99scrape"]
-	url = https://github.com/Logs22/B99scrape.git
+	url = https://github.com/Logs22/B99scrape
 [submodule "repo/B99art"]
-	url = https://github.com/Logs22/B99art.git
+	url = https://github.com/Logs22/B99art
