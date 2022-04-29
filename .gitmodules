@@ -1,0 +1,3 @@
+[submodule "PeraltaRepo"]
+	path = PeraltaRepo
+	url = https://github.com/Logs22/PeraltaRepo.git
