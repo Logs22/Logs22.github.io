@@ -132,7 +132,7 @@
 		<news>
 		</news>
 	</extension>
-</addon><addon id="script.module.myaccounts" version="2.0.1" name="B99 Accounts" provider-name="">
+</addon><addon id="script.module.myaccounts" version="2.0.2" name="B99 Accounts" provider-name="">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" version="2.19.1" />
